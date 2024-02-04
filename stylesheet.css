@@ -18,14 +18,14 @@ body {
     padding: 20px 10%;
     background: #051129;
     background-image: url(pics/sasi.png);
-    background-position: left center;  /* Adjust the background position as needed */
     background-repeat: no-repeat;
-    background-size: auto 80%;  /* Adjust the background size as needed */
+    background-position: right center; /* Set the background position to the right */
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
 }
+
 
 
 .logo {
