@@ -17,6 +17,7 @@ body {
     width: 100%;
     padding: 20px 10%;
     background: #051129;
+    background-image: url(pics/sasi.png)
     display: flex;
     justify-content: space-between;
     align-items: center;
