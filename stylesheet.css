@@ -17,7 +17,7 @@ body {
     width: 100%;
     padding: 20px 10%;
     background: #051129;
-    background-image: url(pics/sasi.png);
+    background-image: url(pics/background.png);
     background-repeat: no-repeat;
     background-position: right center; /* Set the background position to the right */
     display: flex;
